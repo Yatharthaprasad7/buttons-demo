@@ -12,8 +12,10 @@ It’s meant for practice and learning CSS basics such as:
 🛠️ Technologies Used :-
 HTML5
 CSS3
+
+
 📸 Preview :-
-![screenshot](<img width="689" height="677" alt="button" src="https://github.com/user-attachments/assets/a7e2f436-fba3-461e-b81c-afdf10584232" />
+![screenshot](<img width="500" height="677" alt="button" src="https://github.com/user-attachments/assets/a7e2f436-fba3-461e-b81c-afdf10584232" />
 g)
 🙌 Acknowledgments :-
 Inspired by real-world button styles from LinkedIn, Amazon, Uber, GitHub, and Bootstrap.
