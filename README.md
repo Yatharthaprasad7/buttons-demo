@@ -14,7 +14,7 @@ HTML5
 CSS3
 
 🚀 Live Demo
-https://yatharthaprasad7.github.io/buttons-demo/
+https://yatharthaprasad7.github.io/buttons-demo/button.html
 
 📸 Preview :-
 ![screenshot](<img width="500" height="677" alt="button" src="https://github.com/user-attachments/assets/a7e2f436-fba3-461e-b81c-afdf10584232" />
