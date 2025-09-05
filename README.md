@@ -1,2 +1,19 @@
 # buttons-demo
 It's a very basic project to showcase my initial skills of learning html and css in order to develop my frontend skills which is very necessary for web-development. Currently enhancing my skills to the extreme.
+This project is a simple HTML + CSS demo showcasing different button styles inspired by popular platforms like **LinkedIn, Amazon, Uber, GitHub, and Bootstrap**.  
+
+It’s meant for practice and learning CSS basics such as:
+- Button styling (colors, borders, sizes)
+- Hover and active states
+- Border-radius and shadows
+- Transitions for smooth effects
+
+
+🛠️ Technologies Used :-
+HTML5
+CSS3
+📸 Preview :-
+![screenshot](button.png)
+🙌 Acknowledgments :-
+Inspired by real-world button styles from LinkedIn, Amazon, Uber, GitHub, and Bootstrap.
+Built for practice and learning purposes.
